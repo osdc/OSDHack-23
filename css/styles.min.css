@@ -20,7 +20,7 @@
 }
 .discord_but_mobile{
   position: relative;
-  left: 1rem;
+  left: 1.1rem;
 }
 
 .rules_but{
@@ -29,16 +29,14 @@
 }
 
 .devfolio_but_mobile{
-  background-color: red;
   position: relative;
   top: 1rem;
 }
 
 .devfolio_but{
-  background-color: red;
   position: relative;
   left: 11rem;
-  bottom: 1.6rem;
+  bottom: 2.6rem;
   
 }
 
