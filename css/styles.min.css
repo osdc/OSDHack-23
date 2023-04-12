@@ -15,6 +15,17 @@
   src: url(../assets/fonts/muli/Muli-ExtraBold.ttf);
 }
 
+#discord{
+  height: 43px;
+}
+
+.test{
+  background-color: red;
+  position: relative;
+  left: 11rem;
+  bottom: 2.7rem;
+  
+}
 
 html {
   -webkit-box-sizing: border-box;
