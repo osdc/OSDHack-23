@@ -39,6 +39,18 @@
   bottom: 2.6rem;
   
 }
+@media (min-width: 768px) {
+  
+  .filecoin-img{
+    position: relative;
+    right: 11.5rem;
+  }
+  
+  .solana-img{
+    position: relative;
+    right: 0.7rem;
+  }
+}
 
 html {
   -webkit-box-sizing: border-box;
