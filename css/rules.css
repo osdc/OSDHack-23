@@ -154,8 +154,17 @@ h1{
 
 @media only screen and (max-width: 767px) {
   body{
-    background-size: 860%;
+    background-size: 1200%;
     width: 80%;
+  }
+  .heading-faqs{
+    width: 80%;
+  }
+
+  .faq-question-ans{
+    width: 80%;
+    position: relative;
+    left: 2.5rem;
   }
   .navbar-brand {
     margin: 15px 15px;
