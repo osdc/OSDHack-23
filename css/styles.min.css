@@ -39,6 +39,11 @@
   bottom: 2.6rem;
   
 }
+
+.solana-img{
+  width: 60%;
+}
+
 @media (min-width: 768px) {
   
   .filecoin-img{
@@ -47,6 +52,7 @@
   }
   
   .solana-img{
+    width: 40%;
     position: relative;
     right: 0.7rem;
   }
